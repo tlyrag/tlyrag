@@ -5,7 +5,7 @@ I'm Thiago Lyra, I've recently decided to make a complete shift in my carrer by 
 
 * 🔭 I'm currently working at IBM 
 * 🌱 I'm currently learning Python
-* ✨ I also write gaming reviews/previews and news at <a href='www.ultimaficha.com.br'>Ultima Ficha </a>
+* ✨ I also write gaming reviews/previews and news at [Ultima Ficha](https://www.ultimaficha.com.br/)
 
 <!--
 **tlyrag/tlyrag** is a ✨ _special_  repository because its `README.md` (this file) appears on your GitHub profile.
