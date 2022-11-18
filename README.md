@@ -1,10 +1,10 @@
 ![alt text](https://github.com/tlyrag/tlyrag/blob/main/Git%20Profile%20Banner.png)
 ### Hi there 👋
 
-I'm Thiago Lyra, I've recently decided to make a complete shift in my carrer by moving from a Finance Analyst position to become an Automation Developer. I'm currently using Blue Prism as my main RPA application, but I also have knowledge on Javascript and some frameworks such as Vue, Puppeteer.
+I'm Thiago Lyra, In 2020 I've decided to make a complete shift in my carrer by moving from a Finance Analyst position to become an Automation Developer. I'm currently using Blue Prism and IBM RPA as my main RPA applications, but I also have knowledge on Javascript,Python and Java.
 
-* 🔭 I'm currently working at IBM 
-* 🌱 I'm currently learning Python
+* 🔭 2 Years as an Automation developer at IBM 
+* 🌱 I'm currently attending to a PBD in Computing and Information System at Douglas College New Westminster, BC
 * ✨ I also write gaming reviews/previews and news at [Ultima Ficha](https://www.ultimaficha.com.br/)
 
 <!--
